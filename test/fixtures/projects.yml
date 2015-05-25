@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type: 
+  budget_hours: 1
+  billed_upto_previous_month: 1
+  billable_for_the_month: 1
+  redmine_upto_month: 1
+  remarks: MyText
+  wsr_link: MyText
+  redmine_link: MyText
+
+two:
+  name: MyString
+  type: 
+  budget_hours: 1
+  billed_upto_previous_month: 1
+  billable_for_the_month: 1
+  redmine_upto_month: 1
+  remarks: MyText
+  wsr_link: MyText
+  redmine_link: MyText
